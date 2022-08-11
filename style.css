@@ -1,0 +1,32 @@
+.barra {
+	border: 10px outset #0066ff;
+	background-color:#c5c5c5;
+}
+
+.text {
+    text-align: center;
+    color: #15a1bb;
+}
+
+.linguagens {
+    font-size: 20px;
+}
+
+img {
+    margin-top: 0px; 
+    max-width: 200px;
+    border-radius: 30%;
+
+}
+
+h2 {
+    font-size: 30px;
+}
+
+body {
+    font-family: Helvetica;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 3%;
+}
+  
