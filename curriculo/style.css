@@ -1,13 +1,38 @@
 .borda {
-	border: 10px outset #1869AD;
+    border: 10px outset #1869AD;
+    height: 820px;
+    width: 890px;
+    position: fixed;
+    margin:auto ;
 }
 
 .bloco-left {
     background-color: #88B1C7;
+    height:800px;
+    width: 240px;
+    position: fixed;
+    margin-left: 0px;
+    padding-top: 20px;
+    padding-left: 20px;
+
 }
 
 .bloco-right {
     background-color: #C0D4D5;
+    height:800px;
+    width: 600px;
+    position: fixed;
+    margin-left: 270px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.linha {
+    background-color: #6D8E9F;
+    height:820px;
+    width: 10px;
+    position: fixed;
+    margin-left: 260px;
 }
 
 .text {
