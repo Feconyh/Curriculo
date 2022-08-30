@@ -1,11 +1,17 @@
-.barra {
-	border: 10px outset #0066ff;
-	background-color:#c5c5c5;
+.borda {
+	border: 10px outset #1869AD;
+}
+
+.bloco-left {
+    background-color: #88B1C7;
+}
+
+.bloco-right {
+    background-color: #C0D4D5;
 }
 
 .text {
-    text-align: center;
-    color: #15a1bb;
+    color: #000000;
 }
 
 .linguagens {
@@ -13,10 +19,7 @@
 }
 
 img {
-    margin-top: 0px; 
-    max-width: 200px;
     border-radius: 30%;
-
 }
 
 h2 {
